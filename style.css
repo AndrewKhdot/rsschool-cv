@@ -2,3 +2,9 @@
     font-family:  KdamThmorPro;
      src: url("assets\fonts\KdamThmorPro-Regular.ttf");
    }
+   
+* {
+    box-sizing: border-box;
+    font-family: 'KdamThmorPro';
+  }
+  
